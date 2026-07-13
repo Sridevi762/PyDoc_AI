@@ -108,7 +108,6 @@ PyDoc_AI/
     ├── ingest.py
     ├── llm.py
     ├── prompts.py
-    ├── rag.py
     ├── rag_pipeline.py
     ├── retriever.py
     ├── text_splitter.py
